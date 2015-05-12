@@ -1,6 +1,0 @@
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_10.Plus-Remove\bin\Debug\_10.Plus-Remove.exe.config
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_10.Plus-Remove\bin\Debug\_10.Plus-Remove.exe
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_10.Plus-Remove\bin\Debug\_10.Plus-Remove.pdb
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_10.Plus-Remove\obj\Debug\_10.Plus-Remove.exe
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_10.Plus-Remove\obj\Debug\_10.Plus-Remove.pdb
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_10.Plus-Remove\obj\Debug\_10.Plus-Remove.csprojResolveAssemblyReference.cache

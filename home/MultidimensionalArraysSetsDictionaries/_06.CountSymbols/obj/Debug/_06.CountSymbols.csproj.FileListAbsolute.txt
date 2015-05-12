@@ -1,5 +1,0 @@
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_06.CountSymbols\bin\Debug\_06.CountSymbols.exe.config
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_06.CountSymbols\bin\Debug\_06.CountSymbols.exe
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_06.CountSymbols\bin\Debug\_06.CountSymbols.pdb
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_06.CountSymbols\obj\Debug\_06.CountSymbols.exe
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_06.CountSymbols\obj\Debug\_06.CountSymbols.pdb

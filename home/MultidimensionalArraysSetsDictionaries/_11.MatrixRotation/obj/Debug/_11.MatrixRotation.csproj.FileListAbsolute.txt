@@ -1,6 +1,0 @@
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_11.MatrixRotation\bin\Debug\_11.MatrixRotation.exe.config
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_11.MatrixRotation\bin\Debug\_11.MatrixRotation.exe
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_11.MatrixRotation\bin\Debug\_11.MatrixRotation.pdb
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_11.MatrixRotation\obj\Debug\_11.MatrixRotation.csprojResolveAssemblyReference.cache
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_11.MatrixRotation\obj\Debug\_11.MatrixRotation.exe
-C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_11.MatrixRotation\obj\Debug\_11.MatrixRotation.pdb

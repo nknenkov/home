@@ -1,6 +1,0 @@
-c:\users\vili\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_01.FillTheMatrix\bin\Debug\_01.FillTheMatrix.exe.config
-c:\users\vili\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_01.FillTheMatrix\bin\Debug\_01.FillTheMatrix.exe
-c:\users\vili\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_01.FillTheMatrix\bin\Debug\_01.FillTheMatrix.pdb
-c:\users\vili\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_01.FillTheMatrix\obj\Debug\_01.FillTheMatrix.csprojResolveAssemblyReference.cache
-c:\users\vili\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_01.FillTheMatrix\obj\Debug\_01.FillTheMatrix.exe
-c:\users\vili\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_01.FillTheMatrix\obj\Debug\_01.FillTheMatrix.pdb
