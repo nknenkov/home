@@ -1,0 +1,6 @@
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_09.TerroristWin\bin\Debug\_09.TerroristWin.exe.config
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_09.TerroristWin\bin\Debug\_09.TerroristWin.exe
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_09.TerroristWin\bin\Debug\_09.TerroristWin.pdb
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_09.TerroristWin\obj\Debug\_09.TerroristWin.csprojResolveAssemblyReference.cache
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_09.TerroristWin\obj\Debug\_09.TerroristWin.exe
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_09.TerroristWin\obj\Debug\_09.TerroristWin.pdb

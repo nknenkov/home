@@ -1,0 +1,6 @@
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_12.ToTheStars\bin\Debug\_12.ToTheStars.exe.config
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_12.ToTheStars\bin\Debug\_12.ToTheStars.exe
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_12.ToTheStars\bin\Debug\_12.ToTheStars.pdb
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_12.ToTheStars\obj\Debug\_12.ToTheStars.csprojResolveAssemblyReference.cache
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_12.ToTheStars\obj\Debug\_12.ToTheStars.exe
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_12.ToTheStars\obj\Debug\_12.ToTheStars.pdb
