@@ -1,0 +1,6 @@
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_13.ActivityTracker\bin\Debug\_13.ActivityTracker.exe.config
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_13.ActivityTracker\bin\Debug\_13.ActivityTracker.exe
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_13.ActivityTracker\bin\Debug\_13.ActivityTracker.pdb
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_13.ActivityTracker\obj\Debug\_13.ActivityTracker.csprojResolveAssemblyReference.cache
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_13.ActivityTracker\obj\Debug\_13.ActivityTracker.exe
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_13.ActivityTracker\obj\Debug\_13.ActivityTracker.pdb

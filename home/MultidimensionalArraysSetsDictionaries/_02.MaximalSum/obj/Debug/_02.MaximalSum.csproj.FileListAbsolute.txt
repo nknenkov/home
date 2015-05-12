@@ -1,0 +1,6 @@
+c:\users\vili\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_02.MaximalSum\bin\Debug\_02.MaximalSum.exe.config
+c:\users\vili\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_02.MaximalSum\bin\Debug\_02.MaximalSum.exe
+c:\users\vili\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_02.MaximalSum\bin\Debug\_02.MaximalSum.pdb
+c:\users\vili\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_02.MaximalSum\obj\Debug\_02.MaximalSum.csprojResolveAssemblyReference.cache
+c:\users\vili\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_02.MaximalSum\obj\Debug\_02.MaximalSum.exe
+c:\users\vili\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_02.MaximalSum\obj\Debug\_02.MaximalSum.pdb

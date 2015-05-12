@@ -1,0 +1,6 @@
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_05.CollectTheCoins\bin\Debug\_05.CollectTheCoins.exe.config
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_05.CollectTheCoins\bin\Debug\_05.CollectTheCoins.exe
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_05.CollectTheCoins\bin\Debug\_05.CollectTheCoins.pdb
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_05.CollectTheCoins\obj\Debug\_05.CollectTheCoins.csprojResolveAssemblyReference.cache
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_05.CollectTheCoins\obj\Debug\_05.CollectTheCoins.exe
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\MultidimensionalArraysSetsDictionaries\_05.CollectTheCoins\obj\Debug\_05.CollectTheCoins.pdb
